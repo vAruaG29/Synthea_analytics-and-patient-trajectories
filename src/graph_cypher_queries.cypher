@@ -2,6 +2,7 @@
 // It uses the LOAD CSV command to read the data from the CSV files and the MERGE command to create nodes and relationships in the graph.
 // The script assumes that the Neo4j database is already set up and running, and that the CSV files are accessible via the provided URLs.
 
+// dummy data to test the script and to get the structure right
 // patients_csv = 'https://raw.githubusercontent.com/vAruaG29/check/refs/heads/main/patients.csv';
 // procedures_csv = 'https://raw.githubusercontent.com/vAruaG29/check/refs/heads/main/unique_procedure_nodes.csv';
 // conditions_csv = 'https://raw.githubusercontent.com/vAruaG29/check/refs/heads/main/unique_condition_nodes.csv';
