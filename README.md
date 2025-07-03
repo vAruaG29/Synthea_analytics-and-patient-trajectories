@@ -2,7 +2,7 @@
 
 ## Step1
 
-download the synthea data from here [Synthea data]()
+download the synthea data from here [Synthea data](https://studentutsedu-my.sharepoint.com/:f:/g/personal/madhushi_bandara_uts_edu_au/EjLdw_NBP5xMgscDQeH_j-cBYvoIyd5jLVS_BKFW4HufIg?e=5%3aLw3OMS&at=9)
 
 ## Step2
 
